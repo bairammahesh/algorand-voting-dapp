@@ -19,4 +19,4 @@ Simple decentralized voting application built on Algorand.
 - Algorand SDK
 
 ## Author
-Your Name
+Bairam Mahesh 
